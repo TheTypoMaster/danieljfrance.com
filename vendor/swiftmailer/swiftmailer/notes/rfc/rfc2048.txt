@@ -397,7 +397,7 @@ RFC 2048              MIME Registration Procedures         November 1996
 
 
    The specifications of format and processing particulars may or may
-   not be publically available for media types registered in the vendor
+   not be publicly available for media types registered in the vendor
    tree, and such registration proposals are explicitly permitted to
    include only a specification of which software and version produce or
    process such media types.  References to or inclusion of format
