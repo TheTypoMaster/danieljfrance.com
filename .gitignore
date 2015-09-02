@@ -1,0 +1,16 @@
+/bootstrap/compiled.php
+composer.phar
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+.sass-cache
+anon_ftp/
+conf/
+cgi-bin/
+error_docs/
+etc/
+pd/
+private/
+statistics/
+web_users/
